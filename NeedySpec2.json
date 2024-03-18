@@ -324,11 +324,6 @@
       "#7030A0"
     ]
   },
-  "background": {
-    "blur": 10,
-    "url": "https://raw.githubusercontent.com/ssjRozay/personal/main/IMG_2125.png",
-    "alpha": 1
-  },
   "rawColors": {
     "BRAND": "#0070C0",
     "PRIMARY": "#D69DE2",
@@ -350,5 +345,10 @@
   },
   "unsafe_colors": {
     "CHAT_GREY": "#F3E5FC"
+  },
+  "background": {
+    "blur": 10,
+    "url": "https://raw.githubusercontent.com/ssjRozay/personal/main/IMG_2125.png",
+    "alpha": 1
   }
 }
