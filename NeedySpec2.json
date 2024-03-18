@@ -1,0 +1,354 @@
+{
+  "name": "NeedySpec2",
+  "version": "1.0",
+  "description": "Internet overdose",
+  "color": "#A7F1E1",
+  "authors": [
+    {
+      "name": "Rika",
+      "id": "915334712367665233"
+    }
+  ],
+  "spec": 2,
+  "semanticColors": {
+    "KEYBOARD": [
+      "#C69BDB",
+      "#C69BDB"
+    ],
+    "ACTIVITY_CARD_BACKGROUND": [
+      "#D69DE2",
+      "#D69DE2"
+    ],
+    "BACKGROUND_ACCENT": [
+      "#A7F1E1",
+      "#A7F1E1"
+    ],
+    "BACKGROUND_FLOATING": [
+      "#D69DE2",
+      "#D69DE2"
+    ],
+    "BACKGROUND_MENTIONED": [
+      "#00B050",
+      "#00B050"
+    ],
+    "BACKGROUND_MENTIONED_HOVER": [
+      "#0070C0",
+      "#0070C0"
+    ],
+    "BACKGROUND_MESSAGE_HOVER": [
+      "#FF79FF",
+      "#FF79FF"
+    ],
+    "BACKGROUND_MOBILE_PRIMARY": [
+      "#D1E3FA",
+      "#D1E3FA"
+    ],
+    "BACKGROUND_MOBILE_SECONDARY": [
+      "#FF79FF",
+      "#FF79FF"
+    ],
+    "BACKGROUND_MODIFIER_ACCENT": [
+      "#D1E3FA",
+      "#D1E3FA"
+    ],
+    "BACKGROUND_MODIFIER_ACTIVE": [
+      "#ED80F7",
+      "#ED80F7"
+    ],
+    "BACKGROUND_MODIFIER_HOVER": [
+      "#00B050",
+      "#00B050"
+    ],
+    "BACKGROUND_MODIFIER_SELECTED": [
+      "#0070C0",
+      "#0070C0"
+    ],
+    "BACKGROUND_NESTED_FLOATING": [
+      "#7030A0",
+      "#7030A0"
+    ],
+    "BACKGROUND_PRIMARY": [
+      "#F3E5FC",
+      "#F3E5FC"
+    ],
+    "BACKGROUND_SECONDARY": [
+      "#f3e5fc",
+      "#f3e5fc"
+    ],
+    "BACKGROUND_SECONDARY_ALT": [
+      "#E19AE7",
+      "#E19AE7"
+    ],
+    "BACKGROUND_TERTIARY": [
+      "#F5E3FB",
+      "#F5E3FB"
+    ],
+    "CHANNELS_DEFAULT": [
+      "#491FC7",
+      "#491FC7"
+    ],
+    "CHANNEL_ICON": [
+      "#7030A0",
+      "#7030A0"
+    ],
+    "CHANNELTEXTAREA_BACKGROUND": [
+      "#00B050",
+      "#00B050"
+    ],
+    "CONTROL_BRAND_FOREGROUND": [
+      "#0070C0",
+      "#0070C0"
+    ],
+    "CONTROL_BRAND_FOREGROUND_NEW": [
+      "#FF79FF",
+      "#FF79FF"
+    ],
+    "DEPRECATED_CARD_BG": [
+      "#7030A0",
+      "#7030A0"
+    ],
+    "DEPRECATED_CARD_EDITABLE_BG": [
+      "#FF0000",
+      "#FF0000"
+    ],
+    "DEPRECATED_QUICKSWITCHER_INPUT_BACKGROUND": [
+      "#ED7D31",
+      "#ED7D31"
+    ],
+    "DEPRECATED_QUICKSWITCHER_INPUT_PLACEHOLDER": [
+      "#FFFF00",
+      "#FFFF00"
+    ],
+    "DEPRECATED_STORE_BG": [
+      "#00B050",
+      "#00B050"
+    ],
+    "DEPRECATED_TEXT_INPUT_BG": [
+      "#0070C0",
+      "#0070C0"
+    ],
+    "DEPRECATED_TEXT_INPUT_BORDER": [
+      "#FF79FF",
+      "#FF79FF"
+    ],
+    "DEPRECATED_TEXT_INPUT_BORDER_DISABLED": [
+      "#7030A0",
+      "#7030A0"
+    ],
+    "DEPRECATED_TEXT_INPUT_BORDER_HOVER": [
+      "#FF0000",
+      "#FF0000"
+    ],
+    "DEPRECATED_TEXT_INPUT_PREFIX": [
+      "#ED7D31",
+      "#ED7D31"
+    ],
+    "ELEVATION_HIGH": [
+      "#00FF00",
+      "#00FF00"
+    ],
+    "ELEVATION_LOW": [
+      "#00B050",
+      "#00B050"
+    ],
+    "ELEVATION_MEDIUM": [
+      "#0070C0",
+      "#0070C0"
+    ],
+    "ELEVATION_STROKE": [
+      "#FF79FF",
+      "#FF79FF"
+    ],
+    "FOCUS_PRIMARY": [
+      "#7030A0",
+      "#7030A0"
+    ],
+    "GUILD_HEADER_TEXT_SHADOW": [
+      "#FF0000",
+      "#FF0000"
+    ],
+    "HEADER_PRIMARY": [
+      "#491FC7",
+      "#491FC7"
+    ],
+    "HEADER_SECONDARY": [
+      "#491FC7",
+      "#491FC7"
+    ],
+    "INFO_DANGER_BACKGROUND": [
+      "#00B050",
+      "#00B050"
+    ],
+    "INFO_DANGER_FOREGROUND": [
+      "#0070C0",
+      "#0070C0"
+    ],
+    "INFO_DANGER_TEXT": [
+      "#FF79FF",
+      "#FF79FF"
+    ],
+    "INFO_HELP_BACKGROUND": [
+      "#7030A0",
+      "#7030A0"
+    ],
+    "INFO_HELP_FOREGROUND": [
+      "#FF0000",
+      "#FF0000"
+    ],
+    "INFO_HELP_TEXT": [
+      "#ED7D31",
+      "#ED7D31"
+    ],
+    "INFO_POSITIVE_BACKGROUND": [
+      "#00FF00",
+      "#00FF00"
+    ],
+    "INFO_POSITIVE_FOREGROUND": [
+      "#00B050",
+      "#00B050"
+    ],
+    "INFO_POSITIVE_TEXT": [
+      "#0070C0",
+      "#0070C0"
+    ],
+    "INFO_WARNING_BACKGROUND": [
+      "#FF79FF",
+      "#FF79FF"
+    ],
+    "INFO_WARNING_FOREGROUND": [
+      "#7030A0",
+      "#7030A0"
+    ],
+    "INFO_WARNING_TEXT": [
+      "#FF0000",
+      "#FF0000"
+    ],
+    "INTERACTIVE_ACTIVE": [
+      "#491FC7",
+      "#491FC7"
+    ],
+    "INTERACTIVE_HOVER": [
+      "#491FC7",
+      "#491FC7"
+    ],
+    "INTERACTIVE_MUTED": [
+      "#ff0000",
+      "#ff0000"
+    ],
+    "INTERACTIVE_NORMAL": [
+      "#72B1DB",
+      "#72B1DB"
+    ],
+    "LOGO_PRIMARY": [
+      "#FF79FF",
+      "#FF79FF"
+    ],
+    "SCROLLBAR_AUTO_SCROLLBAR_COLOR_THUMB": [
+      "#7030A0",
+      "#7030A0"
+    ],
+    "SCROLLBAR_AUTO_SCROLLBAR_COLOR_TRACK": [
+      "#FF0000",
+      "#FF0000"
+    ],
+    "SCROLLBAR_AUTO_THUMB": [
+      "#ED7D31",
+      "#ED7D31"
+    ],
+    "SCROLLBAR_AUTO_TRACK": [
+      "#FFFF00",
+      "#FFFF00"
+    ],
+    "SCROLLBAR_THIN_THUMB": [
+      "#00B050",
+      "#00B050"
+    ],
+    "SCROLLBAR_THIN_TRACK": [
+      "#0070C0",
+      "#0070C0"
+    ],
+    "DANGER_BACKGROUND": [
+      "#FF79FF",
+      "#FF79FF"
+    ],
+    "DANGER_TEXT": [
+      "#7030A0",
+      "#7030A0"
+    ],
+    "POSITIVE_BACKGROUND": [
+      "#FF0000",
+      "#FF0000"
+    ],
+    "POSITIVE_TEXT": [
+      "#ED7D31",
+      "#ED7D31"
+    ],
+    "WARNING_BACKGROUND": [
+      "#FFFF00",
+      "#FFFF00"
+    ],
+    "WARNING_TEXT": [
+      "#491FC7\n",
+      "#491FC7"
+    ],
+    "TEXTBOX_MARKDOWN_SYNTAX": [
+      "#491FC7",
+      "#491FC7"
+    ],
+    "TEXT_DANGER": [
+      "#491FC7",
+      "#491FC7"
+    ],
+    "TEXT_LINK": [
+      "#7030A0",
+      "#7030A0"
+    ],
+    "TEXT_LINK_LOW_SATURATION": [
+      "#FF0000",
+      "#FF0000"
+    ],
+    "TEXT_MUTED": [
+      "#491FC7",
+      "#491FC7"
+    ],
+    "TEXT_NORMAL": [
+      "#491FC7",
+      "#491FC7"
+    ],
+    "TEXT_POSITIVE": [
+      "#491FC7",
+      "#491FC7"
+    ],
+    "TEXT_WARNING": [
+      "#7030A0",
+      "#7030A0"
+    ]
+  },
+  "background": {
+    "blur": 10,
+    "url": "https://raw.githubusercontent.com/ssjRozay/personal/main/IMG_2125.png",
+    "alpha": 1
+  },
+  "rawColors": {
+    "BRAND": "#0070C0",
+    "PRIMARY": "#D69DE2",
+    "PRIMARY_100": "#491FC7",
+    "PRIMARY_200": "#491FC7",
+    "PRIMARY_300": "#491FC7",
+    "PRIMARY_360": "#491FC7",
+    "PRIMARY_400": "#0070C0",
+    "PRIMARY_500": "#f3e5fc",
+    "PRIMARY_600": "#F3E5FC",
+    "PRIMARY_630": "#491FC7",
+    "PRIMARY_700": "#D69DE2",
+    "PRIMARY_800": "#00B050",
+    "PRIMARY_900": "#0070C0",
+    "PLUM_1": "#000000",
+    "PLUM_3": "#000000",
+    "PLUM_6": "#491FC7",
+    "WHITE": "#FFFF00"
+  },
+  "unsafe_colors": {
+    "CHAT_GREY": "#F3E5FC"
+  }
+}
